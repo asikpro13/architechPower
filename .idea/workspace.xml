@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98b0ab95-e9db-4610-a9de-5d5c37fe91e1" name="Changes" comment="Обновляем порт по документации">
+    <list default="true" id="98b0ab95-e9db-4610-a9de-5d5c37fe91e1" name="Changes" comment="тест">
       <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765172799151</updated>
-      <workItem from="1765480269696" duration="1852000" />
+      <workItem from="1765480269696" duration="3863000" />
     </task>
     <task id="LOCAL-00001" summary="Реп подготовлен к запуску на render.com">
       <option name="closed" value="true" />
@@ -122,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765481842438</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Обновлены библиотеки">
+      <option name="closed" value="true" />
+      <created>1765482144342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765482144342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="тест">
+      <option name="closed" value="true" />
+      <created>1765482381632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765482381632</updated>
+    </task>
+    <task id="LOCAL-00006" summary="тест">
+      <option name="closed" value="true" />
+      <created>1765483683133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765483683133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +154,8 @@
     <MESSAGE value="Реп подготовлен к запуску на render.com" />
     <MESSAGE value="Переименована отправная точка веб сервера по условию render.com" />
     <MESSAGE value="Обновляем порт по документации" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновляем порт по документации" />
+    <MESSAGE value="Обновлены библиотеки" />
+    <MESSAGE value="тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="тест" />
   </component>
 </project>
