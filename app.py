@@ -12,5 +12,5 @@ app.config['JSON_AS_ASCII'] = False
 def main():
     return render_template('index.html')
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=10000, debug=True, allow_unsafe_werkzeug=True)
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', port=10000, debug=True, allow_unsafe_werkzeug=True)
